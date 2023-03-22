@@ -7,3 +7,4 @@
 5. [CatatanKu-react](https://github.com/ariefhk/arxp-catatan-ku-cc)
 6. [Bookshelf-js](https://github.com/ariefhk/arxp-bookshelf-app)
 7. [Catpedia](https://github.com/ariefhk/arx-dicoding-web-dasar-submission)
+8. [Movie Catalogue](https://github.com/ariefhk/arxp-movie-catalogue)
